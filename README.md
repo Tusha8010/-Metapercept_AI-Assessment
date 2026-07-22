@@ -60,12 +60,4 @@ pip install -r requirements.txt
 - Python 3.10+
 - Google Colab or Jupyter Notebook
 
----
 
-## Author
-
-**Tushar Gahininath Sanap**
-
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
