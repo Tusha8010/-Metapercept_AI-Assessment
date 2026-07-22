@@ -1,0 +1,6 @@
+chromadb
+sentence-transformers
+rdflib
+torch
+transformers
+numpy
